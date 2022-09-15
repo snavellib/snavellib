@@ -1,4 +1,4 @@
-### test test 👋
+### 한양대학교 ERICA ICT 융합학부 21학번 박정민입니다. 👋
 
 <!--
 **snavellib/snavellib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
