@@ -1,4 +1,4 @@
-### 한양대학교 ERICA ICT 융합학부 21학번 박정민입니다. 👋
+### I'm Jeongmin Park, Class of 2021, Hanyang University ERICA ICT Division of Media, Culture and Design Technology 👋
 
 <!--
 **snavellib/snavellib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
