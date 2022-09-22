@@ -1,4 +1,5 @@
-### I'm Jeongmin Park, Class of 2021, Hanyang University ERICA ICT Division of Media, Culture and Design Technology 👋
+### I'm Jeongmin Park
+Hanyang University ERICA Division of Media, Culture and Design Technology👋
 
 <!--
 **snavellib/snavellib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
